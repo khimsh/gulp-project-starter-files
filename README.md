@@ -10,7 +10,8 @@
 ### How to use it
 
 1. Clone the repository.
-2. Run `gulp` initially to generate dist folder.
-3. Run `gulp watch` to start the server and watch files.
+2. Run `npm i` or `npm install` to download required npm packages.
+3. Run `gulp` initially to generate dist folder.
+4. Run `gulp watch` to start the server and watch files.
 
 Optionally you can run `gulp build` to generate docs folder with all files.
